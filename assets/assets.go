@@ -1,5 +1,6 @@
 package assets
 
-import(
-)
+func Play(){
+	
+}
 

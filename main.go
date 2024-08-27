@@ -4,6 +4,8 @@ import (
 	"log"
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/ebitenutil"
+
+	// "github.com/f1rssov/2D_Game/assets"
 )
 
 // Game implements ebiten.Game interface.
