@@ -4,7 +4,7 @@ import (
 	"log"
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/ebitenutil"
-    "./assets"
+
 )
 
 // Game implements ebiten.Game interface.
@@ -46,5 +46,4 @@ func main() {
     if err := ebiten.RunGame(game); err != nil {
         log.Fatal(err)
     }
-    Play()
 }
